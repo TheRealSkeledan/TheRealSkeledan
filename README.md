@@ -14,3 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I am Skeledan! I'm an active video game developer and novice coder.
+
+## Coding languages
+### Know:
+* Python
+* Java
+* C++
+* LuaU
+* HTML
+### Learning:
+* C#
+* Haxe
+
+## Current Projects
+* Sunday Night Sussin'
+* * First public released game I've created; FNF mod following the story of Ethan and Sapphire vs Void
+  * Haxe, Psych Engine
+* FLOORS
+* * A 2D DOORS-based game
+  * Java
+* Flooded Datacentres
+* * An action-adventure game about trying to defeat the datacentres
+  * Godot/GScript
+* Alien Invasion
+* * Random 2D project I created for a school assignment
+  * Java
+* Rock Playing Game
+* * Unreleased game about rocks fighting with paper and scissors, hopefully will have graphics soon
+  * Python
+
+## Other skills
+* Composer
+* Artist
+* Animator
+* SFX/VFX designer
+
+## Socials
+* YouTube:
+* X:
+* Discord:
+* Spotify Playlist:
+* Email:
