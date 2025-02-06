@@ -8,21 +8,25 @@ Pronouns: Something
 * Python
 * Java
 * C++
+* Lua
 * LuaU
+* Haxe
 * HTML
 ### Learning:
 * C#
-* Haxe
+* NodeJS
+* React
+* Python: Machine Learning
 
 ## Current Projects
 * Sunday Night Sussin'
 * * First public released game I've created; FNF mod following the story of Ethan and Sapphire vs Void
   * Haxe, Psych Engine
 * FLOORS
-* * A 2D DOORS-based game
+* * A 2D DOORS-based game in development
   * Java
 * Flooded Datacentres
-* * An action-adventure game about trying to defeat the datacentres
+* * An action-adventure game about trying to defeat the overlord by flooding datacentres
   * Godot/GScript
 * Alien Invasion
 * * Random 2D project I created for a school assignment
