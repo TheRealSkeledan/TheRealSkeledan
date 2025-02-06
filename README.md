@@ -1,21 +1,7 @@
 ## Hi there 👋
-
-<!--
-**TheRealSkeledan/TheRealSkeledan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hello, I am Skeledan! I'm an active video game developer and novice coder.
+
+Pronouns: Something
 
 ## Coding languages
 ### Know:
@@ -52,8 +38,9 @@ Hello, I am Skeledan! I'm an active video game developer and novice coder.
 * SFX/VFX designer
 
 ## Socials
-* YouTube:
-* X:
+* YouTube: https://www.youtube.com/@therealskeledan
+* X: https://twitter.com/TheRealSkeledan/status/1806503878612902127
 * Discord:
-* Spotify Playlist:
+* Soundcloud: https://soundcloud.com/skeledan
+* Spotify Playlist: https://open.spotify.com/playlist/65o5rj0vc0fsHixlMHsebd
 * Email:
