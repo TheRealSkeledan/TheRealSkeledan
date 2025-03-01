@@ -1,7 +1,5 @@
 ## Hi there 👋
-Hello, I am Skeledan! I'm an active video game developer and novice coder.
-
-Pronouns: Something
+Hello, I am Skeledan! I'm an active video game developer and a growing coder.
 
 ## Coding languages
 ### Know:
@@ -37,6 +35,9 @@ Pronouns: Something
 * Skeletal Games Engines
 * * An engine designed to provide video game developers a simple template to code
   * Java, Python, C++
+* VoidLocked
+* * A Roblox game based on DOORS where you have to navigate through space, dodge entities, and make allies
+  * LuaU
 
 ## Other skills
 * Composer
